@@ -1,0 +1,36 @@
+@import url(//db.onlinewebfonts.com/c/38292514d8f80b45216b865422916b0b?family=Brandon+Text);
+body{
+font-family: Brandon Text;
+}
+#mainblock{
+background: #1F2630;
+margin-left:434px;
+}
+#mainblock2{
+background: #1F2630;
+margin-left:345px;
+}
+#mainblock3{
+background: #1F2630;
+margin-left:345px;
+margin-top:130px;
+}
+#mainblock4{
+background: #1F2630;
+margin-left:534px;
+}
+#mainblock5{
+background: #1F2630;
+margin-left:345px;
+margin-top:90px;
+}
+body{
+background: #1F2630;
+overflow-x:hidden;
+}
+#vish3{
+text-align: center;
+}
+#vish4{
+text-align: center;
+}
